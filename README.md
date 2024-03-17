@@ -20,4 +20,4 @@ I am a motivated and enthusiastic individual with a strong passion for web devel
 ## Contact Me
 - Email: juancarlospadillo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jc-padillo/
-- Portfolio: [Link to your portfolio website](https://juan-carlos-portfolio.vercel.app/)https://juan-carlos-portfolio.vercel.app/]
+- Portfolio: [Link to your portfolio website](https://juan-carlos-portfolio.vercel.app/)https://juan-carlos-portfolio.vercel.app/
